@@ -1,0 +1,23 @@
+  {
+  "student": "Peter Jensen",
+  "subjects": {
+    "Dansk": {
+      "Standpunkt 1": 7,
+      "Standpunkt 2": 10,
+      "Aarskarakter": 10,
+      "Eksamenskarakter": 12
+    },
+    "Engelsk": {
+      "Standpunkt 1": 10,
+      "Standpunkt 2": 10,
+      "Aarskarakter": 10,
+      "Eksamenskarakter": 12
+    },
+    "Matematik": {
+      "Standpunkt 1": 4,
+      "Standpunkt 2": 7,
+      "Aarskarakter": 7,
+      "Eksamenskarakter": 7
+    }
+  }
+}
